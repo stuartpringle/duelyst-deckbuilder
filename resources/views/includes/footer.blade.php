@@ -1,1 +1,1 @@
-<div id="copyright text-right">© Copyright 2017 Saquib Rizwan </div>
+<div id="copyright" class="">© Copyright 2022 Stuart Pringle</div>
